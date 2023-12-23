@@ -39,3 +39,5 @@
 * 投稿作品タグ機能（洋画・邦画・アクションなど）
 * アツい!!機能（お気に入りボタン）
 * キューとバックグラウンド処理
+
+https://www.figma.com/file/8dWlUbZRoWICCWrGm23r9l/Myfavoritemovie?type=design&node-id=0%3A1&mode=design&t=CAsnZB44xnzx6i3A-1
