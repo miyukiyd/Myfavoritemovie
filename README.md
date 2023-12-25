@@ -43,3 +43,6 @@
 画面遷移図
 https://www.figma.com/file/8dWlUbZRoWICCWrGm23r9l/Myfavoritemovie?type=design&node-id=0%3A1&mode=design&t=CAsnZB44xnzx6i3A-1
 
+
+ER図
+https://gyazo.com/44121f0edfabda976998cb38ee72d558
