@@ -45,4 +45,4 @@ https://www.figma.com/file/8dWlUbZRoWICCWrGm23r9l/Myfavoritemovie?type=design&no
 
 
 ER図
-https://gyazo.com/6cada8bc08dafce33684ff379d88f98d
+https://gyazo.com/dc7e13a166f1bde937e55daa28ee092e
